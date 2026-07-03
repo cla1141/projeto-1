@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>em busca do tesouro</title>
+</head>
+<body>
+    <main>
+          <div>
+             <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga sobre um tesouro, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+          </div>
+    </main>
+            <main>
+        <div class="passo ativo" id="passo-0">
+            <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga um tesouro, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
+            <button class="btn-proximo" data-proximo="1">sao paulo</button>
+            <button class="btn-proximo" data-proximo="2">manaus</button>
+        </div>
+        <div class="passo" id="passo-1">
+            <p>Você começa sua jornada no sao paulo, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista.</p>
+            <button class="btn-proximo" data-proximo="3">Procurar a pista no topo do pico</button>
+            <button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button>
+        </div>
+        </main>
+        <!-- código omitido -->
+
+<head>
+<!-- código omitido -->
+    
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    
+<!-- código omitido -->
+</head>
+
+<!-- código omitido -->
+<!-- código omitido -->
+</head>
+
+<!-- código omitido -->
+        
+        
+</body>
+<link referrerpolicy="ou"
+
+h1 {
+  color: #FF6347; /* Cor do texto */
+}
+
+body {
+  background-color: #E6E6FA; /* Cor de fundo */
+ let botao = document.querySelector('.meu-botao');
+  let paragrafos = document.querySelectorAll('p');
+}
+</html>
